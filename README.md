@@ -135,7 +135,7 @@ Today my team and I continued our hackathon project to learn about the concepts 
 
 ##### Link to work: https://github.com/SchoolOfCode/bc16-w7d3-workshop-nextjs-boilerplate-week7-room15
 
-## Day 23: 1st April 2024
+## Day 23: 
 
 Today I learned about user authentication and how to use local storage in my project. I implemented a login feature and created a user context. This was a bit challenging, but it was satisfying to see the login feature working. I look forward to adding more features like user roles and permissions.
 
@@ -194,3 +194,379 @@ Today I spent the day recapping manipulating the DOM by watching Web Dev Simplif
 Today has been the start of DevOps week at School Of Code! I began by only knowing a simple definition but with great explanations from the coaches it eased us into the concept very well! We then spent the day researching, installing and exploring Sentry (sentry.io) and I was impressed by it's capabilities and tools.
 
 This afternoon, myself and Timothy Bridge explored the basics of TypeScript and learned how to declare and intialise variables, implement functions, declare a new type that describes an object and declare a new type alias!
+
+## Day 31: 
+
+To continue with DevOps week we had an amazing training day from Rafael Tanaka and Adrian Lai from Jetstack Consult about Docker. They did very well to break down a difficult topic and their workshops are very well put together. Whilst learning Docker in a day is very challenging as there are so many new concepts, I have taken away an overall gist and have ideas on best practices such as not being in root and not using too many layers. 
+
+## Day 32: 
+
+Today we had inspiring talks with Lizard Morrow from Santander UK and Manu Magalhães from Smart Pension. Both are School Of Code alumni and were very open with their bootcamp and job seeking experiences. Manu's positive energy and passion for DevSecOps shone through and Lizard demonstrated how his genuine interest and care for accessibility is incorporated into his role. Today we also focused on AWS Quest where we learned about the services available on AWS (EC2, S3, RDS, VPC and Cloudfront).
+
+##### Link to work: https://explore.skillbuilder.aws/learn/course/external/view/elearning/11458/aws-cloud-quest-cloud-practitioner
+
+## Day 33:
+
+Yesterday we had an employability session with Victoria Meah and Andy Jones. I'm feeling very thankful for their continuous support and it was evident that their wealth of experience and knowledge will be incredibly valuable to myself and my fellow bootcampers as our job hunts begin.
+
+I spent my evening supporting the School Of Code pre-course live session. It was fun to experience the course from a different perspective and contribute to the selection of the next cohort of bootcampers!
+
+## Day 34:
+
+Today I learned about infrastructure as code with Terraform and began to create a portfolio page. I had a chance to explore my GitHub Student Pack which offers lots of great learning resources for free and was introduced to working with domains, GitHub Pages and Netlify. 
+
+##### Link to work: https://developer.hashicorp.com/terraform/tutorials/aws-get-started/infrastructure-as-code
+
+## Day 35: 
+
+Today I spent time working on my CV. Getting the right balance between being clear and concise, visually appealing and demonstrating all of my new knowledge from School of Code is challenging but I know how helpful it will be in my journey as a transition into tech.
+
+##### Link to work: https://www.canva.com/design/DAGHX_Q5Kmg/u3036kinYnbZen0k_FzdFg/edit?utm_content=DAGHX_Q5Kmg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+## Day 36:
+
+Today I spent time improving my knowledge on TypeScript. Its a superset to JavaScript but adds type checking to ensure more robust and maintainable code
+
+##### Link to work: https://github.com/SchoolOfCode/bc16-w10-typescript-KelseyBaker262.git
+
+## Day 37:
+
+we started cyber security week at School Of Code where we were introduced to so many different and interesting topics by lots of guest speakers from Microsoft and Synack. These topics include Threat Modelling, OWASP top 10 security risks and Microsofts Digital Defense Report 2023
+
+##### Link to work: https://www.youtube.com/watch?time_continue=605&v=VYClC7mmQCI&embeds_referring_euri=https%3A%2F%2Flearn.schoolofcode.co.uk%2F&source_ve_path=Mjg2NjY&feature=emb_logo, https://www.microsoft.com/en-us/security/security-insider/microsoft-digital-defense-report-2023, https://owasp.org/Top10/
+
+## Day 38:
+
+Today we explored authorisation and authentication throught Supabase. We followed online guides and set up auth in a existing repo and ensured that the keys were secure in the env file.
+
+##### Link to work: https://supabase.com/docs/guides/auth/quickstarts/react, https://supabase.com/docs/learn/auth-deep-dive/auth-deep-dive-jwts, https://github.com/SchoolOfCode/bc16-w11d2-workshop-auth-week11-room8
+
+## Day 39: 
+
+Today myself and my team practiced React and TypeScript skills by planning and building a weather app. Whilst I am still a beginner and this task was given a very limited time frame, we did not make as much progress than I would have liked. I am certain that with enough time and effort I will continue to make progress within the project and improve my skills. 
+
+As I get further into the bootcamp my motivation, optimism and determination increases and after today's session I took a break and spent my evening doing more research and refining the plan. With this clearer direction I'm going to come back to the project over the weekend. For now, its time for bed!
+
+##### Link to work: https://github.com/SchoolOfCode/bc16-w11d3-workshop-typescript-react-weather-app-week11-room8.git
+
+## Day 40: 
+
+Today we learned about the approach of being secure by design. This means building with security at the forefront and beginning of any project. I learned about Git Pre Commit Hooks such as Husky, Prettier and ES Lint.
+
+##### Link to work: https://expressjs.com/en/advanced/best-practice-security.html
+
+## Day 41: 
+
+One of the best ways to learn is to teach others! This week our hackathon involved using our knowledge of TypeScript and creating a written tutorial. It really challenged me to think about how to communicate and display information and what I can implement to help people learn effectively. I chose to create my tutorial for people with no prior experience of TS and who's learning style can be described as a 'hiker' (people who enjoy gradual learning journeys). 
+
+I enjoyed the process and found it very helpful to review my peer's projects and gain feedback. I plan to publish my tutorial but before then I am going to edit it by adding greats things that I learned from my peers such as: providing tips for the practical task to support people if they get stuck and to space out the content to improve readability.
+
+##### Link to work: https://www.canva.com/design/DAGCxS3NgCE/Xi_CTKFnK8kvUEbSz7pXUA/edit?utm_content=DAGCxS3NgCE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+## Day 42: 
+
+Today I applied for my first ever role in tech. It definitely pushed me outside of my comfort zone as it is an application and assessment process that I have not experienced before. I feel like I have learned a lot today and regardless of the outcome I'm happy to be on this journey. Some things that I am proud of is that lots of the skills and tips that School Of Code has taught me came naturally and definitely helped strengthen my application. For example, when asked about how I would get to know a team and explore how they would support me, I delved into asking how they practice psychological safety, support each others learning and working styles and are able to pivot and adapt as a team to ensure the success of a project.
+
+## Day 43: 
+
+Spent the day sat in the garden soaking up the sun whilst I updated my cv. Thank you Timothy Bridge and Rhys Postans for the feedback as it gave me lots to think about and improvements were definitely made :)
+
+##### Link to work: https://www.canva.com/design/DAGHX_Q5Kmg/u3036kinYnbZen0k_FzdFg/edit?utm_content=DAGHX_Q5Kmg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+## Day 44: 
+
+Today was the beginning of AI and data week at the School Of Code. I chose to learn prompting and used my new knowledge to continue working on my revised plan for the weather app workshop. The combination of prompting and breaking down some examples help me to write some components and props. My code has A LOT of pseudo code because this project will act as an example for future projects. Once complete I'm going to test myself by continuing to practice components and props on my e-commerce personal project 🌻 
+
+##### Link to work: https://github.com/SchoolOfCode/bc16-w11d3-workshop-typescript-react-weather-app-week11-room8.git
+
+## Day 45: 
+
+To continue AI and data week at the School Of Code we explored natural intelligence. This is where algorithms are optimized by mirroring biological evolution. Were were introduced to terms such as population, fitness, crossover and mutation and discussed how this relates to AI 
+
+## Day 46: 
+
+Yesterday I finished off the weather app workshop that I had been wrestling with. I broke down the components and have a lot of pseudo code describing each part so I can use its fundamentals in future as a reference. Then I spent the rest of my day learning more about React on Codecademy!
+
+##### Link to work:  https://github.com/SchoolOfCode/bc16-w11d3-workshop-typescript-react-weather-app-week11-room8.git, https://www.codecademy.com/learn/react-101
+
+## Day 47: 
+
+Today myself and lovely team engaged in a group session on Python fundamentals using Scrimba as a learning platform. We then discussed and practiced our learnings on Programiz's playground. 
+
+Pre bootcamp learning Python used to feel like a daunting journey but now I feel more comfortable with it because I know other languages and there some familiar concepts. I'm now equipped with the skills to feel more comfortable with being uncomfortable, for example, by knowing what to do when I'm stuck and asking the right questions and knowing how I learn best. 
+
+##### Link to work: https://v2.scrimba.com/learn-python-c03
+
+## Day 48: 
+
+Today's hackathon was a 2 minute presentation showing my fellow bootcampers what self-learning I had completed that week. I included a summary of everything that I have learned over the past few days and also some LinkedIn tips that I learned to support with finding employment.
+
+## Day 49: 
+
+Today I spent more time working on my CV and I contacted a company that I would love to work for to introduce myself. Even though they did not have any job vacancies at the time for junior developer roles, I am interested in continuing to build my skills and relationship with them for future opportunities.
+
+##### Link to work: https://www.canva.com/design/DAGHX_Q5Kmg/u3036kinYnbZen0k_FzdFg/edit?utm_content=DAGHX_Q5Kmg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+## Day 50: 
+
+Today I used Scrimba to continue learning TypeScript and working on my e-commerce site. I wrestled for hours trying to make progress on my e-commerce site yesterday and came away feeling like no progress was made. I take solace knowing that hopefully some learning was made in the struggle and today I approached my day with more structure and and planning which has helped me progress.
+
+##### Link to work: https://v2.scrimba.com/learn-typescript-c0l, https://github.com/KelseyBaker262/photography-e-commerce-site.git
+
+## Day 51: 
+
+As I begin the second half of the 100 days of code challenge, the final projects at the School Of Code has begun! I met my wonderful team Albert Szupszynski, Winnie, Jose Luis Quinones Castro, Jules Smith and Ayodimeji Akinbolude and we created a team manifesto. We were given the project brief and time to prepare for our meeting with our stakeholder tomorrow. 
+
+Exciting times ahead 🚀
+
+##### Link to work: https://www.notion.so/Manifesto-62f9689ea6684cc68883a62f70956342
+
+## Day 52: 
+
+Today we had our the first meeting with 3 of our stakeholders. This was a great opportunity to get to know them and delve into their problem. We were able to gain a variety of perspectives as we had the opportunity to speak to the organisation's leaders and users.
+
+The complex information collected required lots of organising into themes, priorities and supported with creating user personas so we could keep our users at the forefront of our design and build process. Through Disney Ideation, the Eisenhower matrix and stand-ups with our peers, we will finalise our solution and define some clear MVPs.
+
+Although our final idea has not been confirmed, there are a few key features which may form part of our solution so this evening I have taken some time to explore authorisation, user roles, payment features, threat modelling and progressive web apps ⭐
+
+##### Link to work: https://www.canva.com/design/DAGDzFjavPA/AzdpoAJdMZ9Wfvzg9s1H3A/edit?utm_content=DAGDzFjavPA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton, https://www.figma.com/board/6xedai8KI4sia3DzDHiOE9/Planning%3A-Disney-Ideation%2C-Personas-and-MVPS?node-id=0-1&t=ZBTfsQSAZRUDyPtb-1
+
+## Day 53: 
+
+A busy day split between final project and great guest speakers! Maria Crawford gave a very down-to-earth and realistic talk about life after the bootcamp and Gosia Szewczuk and Jane Fallon shared the wonderful work that they do at Methods regarding the creation of user-focused products within government digital services. 
+
+Then our final projects continued where we began our daily stand-ups, retros, progress tracking on Jira, finalising our planning, decision making and solution idea so we could began making a prototype.
+
+## Day 54: 
+
+Today we finalised our idea for the final project and began to create a prototype on Figma. It was great learning how to use Figma as it is industry standard.
+
+##### Link to work: https://www.figma.com/design/l0E2tWMfxn9X4ejdKx0lp7/Prototype?node-id=0-1&t=Y23MQFN3hByrUSSC-1
+
+## Day 55: 
+
+Week 1 of the final projects at School Of Code is officially complete! Tom Simmonds and Grant Klinefelter are some of the organisers of the Kings Heath Clangers community basketball club in Birmingham. They approached my team with the complex problem of needing to find an easier way to help them organise the basketball club's schedule, payments and communication. 
+
+After the initial meeting to explore the problem further our team has been busy with week completing the initial product discovery planning. This involved adopting a agile design process and doing the following:
+- Empathise: Fully understanding the stakeholders
+- Define: Being curious to define the 'actual' problem
+- Ideate: Generating ideas through Disney Ideation, market research and creating user stories
+- Conducting surveys and having a stakeholder progress meeting to gain quick and informative feedback 
+- Considerations: Designing with user experience and budget in mind
+- Prototype: experimenting with potential designs and features
+
+Its clear that Tom and Grant both genuinely care about the club and its members and our team are feeling determined to create a solution which can add value. 
+
+This project is about consolidating the knowledge that we have learned during the bootcamp and I have enjoyed taking a lead on stakeholder interactions and presentations, user stories and Disney Ideation.
+
+##### Link to work: https://www.canva.com/design/DAGFZ7Zq-_0/L46SLB_GRnO8UB87lzCGRA/edit?utm_content=DAGFZ7Zq-_0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+## Day 56: 
+
+Today I made a few changes to my CV and met with Timothy Bridge. We started a side project of building a carbon emissions calculator. The School Of Code final projects are in full swing but we thought this smaller and slower side project would be a nice way to put our minds on something different whilst consolidating our core skills. 
+
+A main reason of the final project is to consolidate our skills and my team are making a great effort to ensure everyone is involved in all aspects of the project. However, when there are 6 people in a group, its inevitable that there will be a few things that I don't get a chance to complete so this project with Timothy Bridge gives me a nice opportunity for that 🌻
+
+We started with conducting user research and sent out a survey.
+
+##### Link to work: https://docs.google.com/forms/d/1gl4RxQpk-nqPzbTSrOYFRmK0A-_5zjxMi9yhq6Y9d-A/edit
+
+## Day 57: 
+
+Today I've enjoyed time with my family and made some changes on my CV after helpful feedback from Erin Smith 🌻
+
+##### Link to work: https://www.canva.com/design/DAGHX_Q5Kmg/u3036kinYnbZen0k_FzdFg/edit?utm_content=DAGHX_Q5Kmg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+## Day 58: 
+
+Today I worked on the nav bar of my e-commerce site and am still amused at learning that the style of the menu icon is called a hamburger icon. I have the main functionality working so the nav bar styling changes depending on the size of the screen and when hamburger icon is clicked, it reveals the menu options. 
+
+I followed a YouTube video that was in vanilla JavaScript but adapted the instructions by making sure I could create the nav bar whilst using components, NextJs and CSS modules. 
+
+Next I would like to change the basic styling to match the design of my e-commerce site and fix a couple bugs. I have a gap under the nav bar when the menu options are revealed, the hover functionality isn't working properly and I need to remove the horizontal scroll. 
+
+##### Link to work: https://github.com/KelseyBaker262/photography-e-commerce-site.git
+
+## Day 59: 
+
+After the bank holiday weekend myself and the team were feeling energised and eager to get back into our final projects. We had a busy day exploring APIs and rounding off the design and documentation. After a quick chat with Nadeem Shabir, he gave us a few insightful tips on small changes that we could implement which would have a big impact on the efficiency of the project 🏀
+
+## Day 60: 
+
+Today I skill shared with my team by explaining the benefits of CSS modules and demonstrated how to use it. We then started the build process where we are creating a calendar and the databases for user credentials and booking functionality 
+
+##### Link to work: https://github.com/lazycloud0/khc.git
+
+## Day 61: 
+
+Our team had a productive day and implemented our calendar component for our final project. We decided to use React Full Calendar for its easy integration with our existing repo and for its plugins.
+
+##### Link to work: https://github.com/lazycloud0/khc.git, https://fullcalendar.io/docs/react
+
+## Day 62: 
+
+Our team had our first branching issue and myself and Albert Szupszynski were able to fix it with 2 minutes to spare before our demo with our stakeholders! We both learned a lot and our proud of our efforts. Our stakeholder is happy with our idea and progress and gave us helpful feedback on our colour schemes and branding
+
+##### Link to work: https://www.canva.com/design/DAGEA7erRaA/qvwqvK0hAEyo19-ZSTtt5Q/edit?utm_content=DAGEA7erRaA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+## Day 63: 
+
+- I made a component tree for our project to help us all visual the file structure now we are all in build mode
+- I updated our decision making rational to include our Git Hook decision making
+- I met up for Timothy Bridge and continued to work on our carbon emissions calculator by reviewing the responses from our survey and adapting our plans to align with the users' wants and opinions
+
+##### Link to work: https://www.canva.com/design/DAGD-kryLyE/Ev5bcmfDVX-paZIPX3rPSw/edit?utm_content=DAGD-kryLyE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+## Day 64: 
+
+Today I did some research on how to implement our event functionality on our calendar for our final project. Also, Myself and Albert met up to finalise our header and footer and I'm really happy with how it looks. I've become a little obsessed and feeling proud so I'm looking at our mobile site a few times a day 
+
+##### Link to work: https://github.com/lazycloud0/khc.git, https://fullcalendar.io/docs/react
+
+## Day 65: 
+
+Today I spent some time fixing some bugs, I learned about more about SVGs, calendar functionality and how to perform Get requests using Next.js and Supabase
+
+##### Link to work: https://github.com/lazycloud0/khc.git
+
+## Day 66: 
+
+So proud of the resilience and determination of my team today! We had a slow start yesterday but Ayodimeji Akinbolude did an amazing job of realigning the team's goals, Jules Smith picked up everyone's spirits with a great game for our energiser, Winnie L. helped guide the back end team to success today, Albert Szupszynski created a form with great error handling and validation and I have been able to fix some bugs. It's my turn to create a fun energiser for tomorrow and I'm ready to make it a fun one 🏀🏆
+
+##### Link to work: https://github.com/lazycloud0/khc.git
+
+## Day 67: 
+
+##### Link to work: 
+
+## Day 68: 
+
+##### Link to work: 
+
+## Day 69: 
+
+##### Link to work: 
+
+## Day 70: 
+
+##### Link to work: 
+
+## Day 71: 
+
+##### Link to work: 
+
+## Day 72: 
+
+##### Link to work: 
+
+## Day 73: 
+
+##### Link to work: 
+
+## Day 74: 
+
+##### Link to work: 
+
+## Day 75: 
+
+##### Link to work: 
+
+## Day 76: 
+
+##### Link to work: 
+
+## Day 77: 
+
+##### Link to work: 
+
+## Day 78: 
+
+##### Link to work: 
+
+## Day 79: 
+
+##### Link to work: 
+
+## Day 80: 
+
+##### Link to work: 
+
+## Day 81: 
+
+##### Link to work: 
+
+## Day 82: 
+
+##### Link to work: 
+
+## Day 83: 
+
+##### Link to work: 
+
+## Day 84: 
+
+##### Link to work: 
+
+## Day 85: 
+
+##### Link to work: 
+
+## Day 86: 
+
+##### Link to work: 
+
+## Day 87: 
+
+##### Link to work: 
+
+## Day 88: 
+
+##### Link to work: 
+
+## Day 89: 
+
+##### Link to work: 
+
+## Day 90: 
+
+##### Link to work: 
+
+## Day 91: 
+
+##### Link to work: 
+
+## Day 92: 
+
+##### Link to work: 
+
+## Day 93: 
+
+##### Link to work: 
+
+## Day 94: 
+
+##### Link to work: 
+
+## Day 95: 
+
+##### Link to work: 
+
+## Day 96: 
+
+##### Link to work: 
+
+## Day 97: 
+
+##### Link to work: 
+
+## Day 98: 
+
+##### Link to work: 
+
+## Day 99: 
+
+##### Link to work: 
+
+## Day 100: 
+
+##### Link to work: 
