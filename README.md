@@ -437,99 +437,129 @@ So proud of the resilience and determination of my team today! We had a slow sta
 
 ## Day 67: 
 
-##### Link to work: 
+Today myself, Albert and Jules worked in the Login/Sign Up page on our final project. Jules sourced the code from material UI and then I added more styling which ensured brand consistency with the rest of our website. 
+
+##### Link to work: https://github.com/lazycloud0/khc.git
 
 ## Day 68: 
 
-##### Link to work: 
+Friday's always mean another stakeholder meeting regarding our final project! We shared this week's progress, demonstrated where this meant we were up to in relation to our MVPs, gave a demo of the product, shared our sprint 4 goals and gained any feedback from our stakeholder!
+
+##### Link to work: https://www.canva.com/design/DAGFaNJXm_A/9Y_muyvWOrV58vzgLo4AhA/edit?utm_content=DAGFaNJXm_A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## Day 69: 
 
-##### Link to work: 
+Today I started to plan the About page for our website. Our project stakeholders sent over photos, videos and content of what they would like included on the page and I organsed this and explored the different ways the implement this on our page. We decied to go with a 'tile' design to keep the information in clear sections
+
+##### Link to work: https://www.kingsheathclangers.me/about
 
 ## Day 70: 
 
-##### Link to work: 
+I reviewed the About page information and media that I organised the day before and drew a rough wireframe of what this could look like in desktop view. I then created the page and components files in our repo and began to add the JSX to the About page component. 
+
+##### Link to work: https://github.com/lazycloud0/khc.git
 
 ## Day 71: 
 
-##### Link to work: 
+Today myself and Ayo worked on the OnClick functionality of on the calendar of our project. We were able to follow the docs to get this working but then struggled to get the individual events to render a new page specific to that event. Albert then joined us and as a collective we were able to get this complete today!
+
+##### Link to work: https://www.kingsheathclangers.me/whatson
 
 ## Day 72: 
 
-##### Link to work: 
+Whilst our backend team was exploring logins with supabase, the frontend team were exploring how users can sign up to games and training sessions. We were able to hardcode a login and send that information to our attendance table in our database. 
+
+##### Link to work: https://github.com/lazycloud0/khc.git
 
 ## Day 73: 
 
-##### Link to work: 
+Today we had some really helpful advice from Nadeem from Sage and he discussed what a final product should look like. As a team it was taking us longer than we would have hoped to implement logins. One reflection is that next time we would start with logins but for the purpose of a 3 week project, starting with the calendar functionality is a good idea. So we decided to temporarily stop our login functionality to be able to focus on adding final touches to what we have built already and creating an amazing demo say presenation. So the frontend team then went back to the hard coded functionality and created a name and email address sign up which would act as a temporary fix to having no login accounts yet. 
+
+##### Link to work: https://github.com/lazycloud0/khc.git
 
 ## Day 74: 
 
-##### Link to work: 
+Today we spent time preparing for our stakeholder meeting tomorrow, discussing as a team what the future holds for this project and rounding off any outstanding tasks ready for demo presentation prep in the next few days.
 
 ## Day 75: 
 
-##### Link to work: 
+The final projects really have flown by! Friday's always mean another stakeholder meeting and it's the last one! We shared this week's progress (which was a lot of functionality and has put us in a good space), demonstrated where this meant we were up to in relation to our MVPs, gave a demo of the product, discussed the next steps between the team and Kings Heath Clangers and gained any feedback from our stakeholder! Our stakeholder has also kindly offered us free merch tops as a thank you.
+
+##### Link to work: https://www.canva.com/design/DAGGIQZuZPY/kzCI0N-e-77Y4_cdb5IjNg/edit?utm_content=DAGGIQZuZPY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## Day 76: 
 
-##### Link to work: 
+As a weekend task for the final project I used the user persona and user journey research work that our team had completed during the first week of our final project and redesigned it into a bite-size and presnetable which would be easily understood during our final presentation. 
+
+##### Link to work: https://www.youtube.com/watch?v=_2DT-UdjQ9U
 
 ## Day 77: 
 
-##### Link to work: 
+As a weekend task for the final project I completed a Google Lighthouse Accessibility test on our website. Each page was scoring between 94% and 98% for each page. This was the first time doing a Lighthouse test and it was interesting to learn about ARIA labels and colour contrast.
 
 ## Day 78: 
 
-##### Link to work: 
+Today our final project team practiced and recorded a first draft demo day presentation video. This was then submitted to School of Code to gain feedback from from the coaches
 
 ## Day 79: 
 
-##### Link to work: 
+This morning myself and final project team met up to work on our final project for Kings Heath Clangers. We were able to refector and improve the JSX and CSS code for our forms so the CSS was no longer overridding each other and the forms styling worked well in mobile and desktop mode. In the afternoon, we received the first draft feedback from the School of Code coaches and then discussed as a group how we could implement this.
 
 ## Day 80: 
 
-##### Link to work: 
+Today myself and my team chose what we would like our website to look like in terms of styling and branding and divided all of the outstanding tasks between us all. We then spent the day completing them so the website was presentable for demo day.
+
+##### Link to work: https://github.com/lazycloud0/khc.git
 
 ## Day 81: 
 
-##### Link to work: 
+Today myself and my team began used the feedback that we gained from the coaches and implemented this into our demo day presentation. We tried a few different ways to record the demo and ended in recording it separately and editing it together as Jules in our team has video editing skills
 
 ## Day 82: 
 
-##### Link to work: 
+Today myself and my team recorded our final demo day recording which will be sent to any potential employer who isn't able to make it to demo day. Afterwareds, I had a meeting with my mentor Dom, where I showed him our demo day prerecording and he gave valuable feedback.
+
+##### Link to work: https://www.youtube.com/watch?v=_2DT-UdjQ9U
 
 ## Day 83: 
 
-##### Link to work: 
+It is a bank holiday this weekend so I spent the morning continuing to create the About page for our project website and then spent the afternoon at the beach! I was able to add all necessary information, style each container and learn how to embed 2 YouTube videos on the story of Kings Heath Clangers.
+
+##### Link to work: https://www.kingsheathclangers.me/about
 
 ## Day 84: 
 
-##### Link to work: 
+It is a bank holiday this weekend so I spent half of the day at the beach! In the evening I logged into School of Code's learning platform and make progress towards completing the Project Launch Experience course. This is where I learned updated regarding the course and demo day, gave feedback on guest speakers and my mentor.
 
 ## Day 85: 
 
-##### Link to work: 
+Due to illness within my team we did not practice our demo today, but myself, Ayo and Albert still came together to work on the About page of our Kings Heath Clangers website. We learned how to build 2 image carousel and style them. After, we placed them into our About page and used Grid for the first time in the project to create a logical and organised layout for the desktop version of our webiste. 
+
+##### Link to work: https://www.kingsheathclangers.me/about
 
 ## Day 86: 
 
-##### Link to work: 
+Today was Demo Day dress rehersal! There are 10 different teams in the school of code cohort and we came together to have full run throughs of our demo presentations, gain feedback from the coaches and our peers and also make any last minute improvements. It was great to see how everyone else's demos and I'm feeling proud of us all.
 
 ## Day 87: 
 
-##### Link to work: 
+I am thrilled to share that my 16-week journey at the School of Code bootcamp has come to a successful end! 🎓🚀 Today we had our Demo Day where my team and I had the incredible opportunity to showcase our final project to a diverse audience of companies and industry professionals, including George Hall from Good Growth, Matt Chalmers from DataStax and Jeremy Strong from Invoco Telecom. It was an exhilarating experience to present an application we developed from scratch that addresses a real-world problem. 💡🌍 Reflecting on this journey, I am amazed at how far I've come. From having no prior coding experience to now being able to contribute meaningfully to a project that adds value, is a transformative experience. The bootcamp was intense and challenging, but it was also incredibly rewarding.
+
+##### Link to work: https://www.youtube.com/watch?v=_2DT-UdjQ9U
 
 ## Day 88: 
 
-##### Link to work: 
+Today is my first day since School of Code has eneded. It feels refreshing to have some time to recouperate and I'm excited to see what my future holds. I gained valuable feedback on my CV from Nadeem from Sage and Andy from the School of Code employability team and put their tips into action but also felt inspired to completely redesign my whole CV. I know that I gravitate more towards front-end and design and thought I would like my CV to show that interest and be more visually appealing and make use of UX tips such as colours, font size and weight and logical flow. I can finally say that it is officially done!!
+
+##### Link to work: https://www.canva.com/design/DAGHX_Q5Kmg/u3036kinYnbZen0k_FzdFg/edit?utm_content=DAGHX_Q5Kmg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## Day 89: 
 
-##### Link to work: 
+Today I applied for some jobs who are School of Code partners and some who are external, worked on my 100 days of code repo, explored the benefits of LinkedIm Premium and how it will support my job seeking and did some networking with potential employers from demo day.
 
 ## Day 90: 
 
-##### Link to work: 
+Today I wrote a cover letter, applied for some jobs and continued to work on organising my 100 days of code repo and getting my GitHub profile job ready.
 
 ## Day 91: 
 
