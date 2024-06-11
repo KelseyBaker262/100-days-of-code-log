@@ -563,13 +563,15 @@ Today I wrote a cover letter, applied for some jobs and continued to work on org
 
 ## Day 91: 
 
-##### Link to work: 
+Today I continued improving my GitHub profile by editing my profile readme and organising which repos I can pin to my account and giving them informative repos too
 
 ## Day 92: 
 
-##### Link to work: 
+Today was the first employability session held by the School of Code employability team. This included a general Q&A session regarding job seeking and life after the course followed by a talk by Hannah from Jadu who gave us tips on our CVs and the interview process. Lastly, I shared my CV with my peers and gained valuable feedback.
 
 ## Day 93: 
+
+Today I engaged in a School of Code feedback session. This involved having discussions on all aspects of the course such as the pre-course, the course itself and the final projects and demo. It was great to experience the course listening to our thoughts and discussing ways to potentially implement them. Then I met with my pair Timothy where we continued to work on our travel carbon emissions calculator before I spent the afternoon finishing off my GitHub readmes and completing the employability course section on the School of Code learning platform.
 
 ##### Link to work: 
 
