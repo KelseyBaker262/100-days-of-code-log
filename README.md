@@ -571,17 +571,21 @@ Today was the first employability session held by the School of Code employabili
 
 ## Day 93: 
 
-Today I engaged in a School of Code feedback session. This involved having discussions on all aspects of the course such as the pre-course, the course itself and the final projects and demo. It was great to experience the course listening to our thoughts and discussing ways to potentially implement them. Then I met with my pair Timothy where we continued to work on our travel carbon emissions calculator before I spent the afternoon finishing off my GitHub readmes and completing the employability course section on the School of Code learning platform.
+Today I engaged in a School of Code feedback session. This involved having discussions on all aspects of the course such as the pre-course, the course itself and the final projects and demo. It was great to experience the course listening to our thoughts and discussing ways to potentially implement them. Then I met with my peer Timothy where we continued to work on our travel carbon emissions calculator called Eco-Leap, before I spent the afternoon finishing off my GitHub readmes and completing the employability course section on the School of Code learning platform.
 
-##### Link to work: 
+##### Link to work: REPO: https://github.com/KelseyBaker262/eco-leap.git DEPLOYED SITE: https://eco-leap.vercel.app/
 
 ## Day 94: 
 
-##### Link to work: 
+Today I engaged in an employability session with School of Code. This gave me lots of tips on my LinkedIn, GitHub, Otta and Hackajob accounts. I then met with Albert and we discussed the future of our final project and delegated some tasks to complete this week and next week to continue making progress. Finally, I met with Timothy who was able to give me some really valuable insights into the CSS of our final project. We were able to fix the landing page and footer on the website :)
+
+##### Link to work: https://www.kingsheathclangers.me/
 
 ## Day 95: 
 
-##### Link to work: 
+Today I started the day with a level 6 CodeWars Kata. It felt good to start challenging myself and learning new things. This is something that I want to keep up daily, then I shared my CV and cover letter with Andy for feedback, updated my GitHub and Linked in profile, applied for some jobs and then looked for some jobs to apply to.
+
+##### Link to work: https://www.codewars.com/kata/52efefcbcdf57161d4000091
 
 ## Day 96: 
 
