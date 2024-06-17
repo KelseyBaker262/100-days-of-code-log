@@ -589,20 +589,26 @@ Today I started the day with a level 6 CodeWars Kata. It felt good to start chal
 
 ## Day 96: 
 
-##### Link to work: 
+Today I did my second ever technical test created by School of Code on CoderBytes. This has reduced by anxiety of the unknown regarding tech tests in the job hiring process and has been helpful to show me what parts of Javascript that I need to brush up on. After, I applied for a couple jobs.
 
 ## Day 97: 
 
-##### Link to work: 
+Today I spent a few hours going through the list of 100 companies which School of Code have provided me with. This in partner companies and I will to research them and choose a top 5. After, SoC will reach out to these companies and introduce me and them so build connections for future job opportunities. Its really interesting to learn about lots of different companies but it has been taking me absolutely hours!!!
 
 ## Day 98: 
 
-##### Link to work: 
+Today I continued with researching the 100 partner companies for a couple hours. 
 
 ## Day 99: 
 
-##### Link to work: 
+Today I started the day with an employability session which included a guest talk from Mike Elsmore. Mike was very down to earth and explained to myself and fellow bootcampers about the current tech industry and gave lots of helpful tips including: refer to the job description rather than the title because often the description is more accurate, join hackathons and meet ups in our local area and online to network but don't burn ourselves out, tips on how to network and to not specialise in one area of tech yet as we have a lot to learn and learning as much as we can now in a full stack role will be more beneficial. 
+
+After, I met up with Albert and we continued researching the list of 100 companies that School of Code have given us before continuing on our SoC final project where we merged Winnie's auth and login branch, resolved conflict requests and then deployed and tested it. To finish off the day I explored some internal and external roles to apply to. 
+
+##### Link to work: https://www.kingsheathclangers.me/ https://github.com/lazycloud0/khc.git
 
 ## Day 100: 
 
-##### Link to work: 
+WOW its day 100! It feels like time has really flown by. I'm really proud to complete the challenge and it's been a great way to document my journey. Reading the earlier days is a pleseant reminder of how far I've come. Today I spent some time doing CodeWars katas to keep up my skills before applying to jobs. I then met with Timothy where we continued our Eco-Leap project. Now our boiler plate has been set up and all security and CI/CD measures are in place, we were able to start researching and planning. We thought about what we wanted our app to look like and what APIs we could use. 
+
+##### Link to work: https://github.com/KelseyBaker262/eco-leap.git https://eco-leap.vercel.app/
